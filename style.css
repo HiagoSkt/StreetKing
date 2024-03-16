@@ -1,0 +1,147 @@
+/*
+.principal { color: #0093d1 }
+.background { color: #dadada }
+.secundaria { color: #ffffff }
+*/
+header{color: #0093d1;   
+font-family:serif;
+font-size: 25px;
+text-align: center;
+border-style: solid;
+padding: 60px;
+margin: 0px;
+background-color: #ffffff;}
+
+ul{list-style-type: none;}
+
+main{color: #0093d1;
+font-family:serif;
+font-size: 25px;}
+
+article{color: #0093D1;
+font-family: serif;
+font-style: italic;
+font-size: 25px;
+text-align: center;}
+
+footer{color: #0093D1;
+font-size:  25px;
+text-align: center;}
+
+header li{border: double 1px #0093D1;
+padding: 0.2%;
+margin-left: 250px;
+margin-right: 0px;
+position: fixed;
+top: 0px;
+right: 0px;
+background-color: #ffffff
+}
+
+p{color: #0093D1;
+font-size: 25px;
+text-align: center;}
+
+p#sk{font-size: 20px;
+text-align: end;
+padding-right: 7px;
+position: relative;
+top: 50px;}
+
+a{color: #0093D1;}
+
+a:hover{color: black;}
+
+html{background: #ffffff;
+color: #0093D1;}
+
+p#tc{text-align: center;
+color: #424242;}
+
+p#skk{position: fixed;
+top: 0px;
+left: 50px;}
+
+li#home{position: fixed;
+top: -47px;
+right: 161px;
+border: solid;
+border-color: #0093d1;}
+
+li#prod{position: fixed;
+top: -47px;
+right: 111px;
+border: solid;
+border-color: #0093d1;}
+
+li#cart{position: fixed;
+top: -47px;
+right: 61px;
+border: solid;
+border-color: #0093d1;}
+
+li#contat{position: fixed;
+top: -47px;
+right: 11px;
+border: solid;
+border-color: #0093d1;}
+
+li#tc{border: double 1px #0093D1;
+margin-left: 500px;
+margin-right: 500px;}
+
+li#insta{position: fixed;
+bottom: 0px;
+left: 10px;}
+
+li#face{position: fixed;
+bottom: 0px;
+left: 60px}
+
+p#text{color: #707070;
+font-size: 25px;
+text-align: center;}
+
+p#skt{position: absolute;
+top: 25px;}
+
+h2{text-align: center;
+font-family: 'Times New Roman', Times, serif;}
+
+li#zap{position: fixed;
+bottom: 0px;
+left: 110px;}
+
+li#home:hover{border-style: solid;
+color: #0093D1;
+position: fixed;
+top: 8px;
+right: 161px;
+padding: -3px;
+}
+
+li#contat:hover{border-style: solid;
+color: #0093D1;
+position: fixed;
+top: 8px;
+right: 11px;}
+
+li#prod:hover{border-style: solid;
+color: #0093D1;
+position: fixed;
+top: 8px;
+right: 111px;}
+
+li#cart:hover{border-style: solid;
+color: #0093D1;
+position: fixed;
+top: 8px;
+right: 61px;}
+
+html{background-image: url(StreetKinglog\ \(3\).png);
+background-repeat: no-repeat;
+position: fixed;}
+
+
+
+    
