@@ -148,5 +148,5 @@ background-position: center;
 background-attachment:fixed;}
 
 li#github{position: fixed;
-bottom: 0px;
+bottom: -2px;
 left: 160px;}
