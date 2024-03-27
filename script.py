@@ -1,2 +1,3 @@
-nome = 2
-print("Sejam bem vindos á"(nome))
+nome = ("StreetKing")
+print("Sejam bem vindos á",nome)
+

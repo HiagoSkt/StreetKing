@@ -145,3 +145,7 @@ background-attachment:fixed;}
 li#github{position: fixed;
 bottom: -2px;
 left: 160px;}
+
+img#lupa{position: absolute;
+top: 265px;
+left: 800px;}
