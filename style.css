@@ -47,6 +47,12 @@ padding-right: 7px;
 position: relative;
 top: 50px;}
 
+p#pdita{font-size: 20px;
+text-align: end;
+padding-right: 7px;
+position: relative;
+top: 70px;}
+
 a{color: #0093D1;}
 
 a:hover{color: black;}
@@ -55,7 +61,7 @@ html{background: #ffffff;
 color: #0093D1;}
 
 p#tc{text-align: center;
-color: #424242;}
+color: #707070;}
 
 p#skk{position: fixed;
 top: 0px;
@@ -91,11 +97,11 @@ margin-right: 500px;}
 
 li#insta{position: fixed;
 bottom: 0px;
-left: 10px;}
+left: 14px;}
 
 li#face{position: fixed;
 bottom: 0px;
-left: 60px}
+left: 64px}
 
 p#text{color: #707070;
 font-size: 25px;
@@ -109,7 +115,7 @@ font-family: 'Times New Roman', Times, serif;}
 
 li#zap{position: fixed;
 bottom: 0px;
-left: 110px;}
+left: 114px;}
 
 li#home:hover{border-style: solid;
 color: #0093D1;
@@ -143,15 +149,15 @@ background-position: center;
 background-attachment:fixed;}
 
 li#github{position: fixed;
-bottom: -2px;
-left: 160px;}
+bottom: 0px;
+left: 164px;}
 
 img#lupa{position: absolute;
 top: 265px;
 left: 800px;}
 
 div#darkmode{position: absolute;
-top: 10px;
+top: 12px;
 left: 15px;
 margin: 0;
 padding: 0;
@@ -176,7 +182,7 @@ background-attachment:fixed;}
 
 .checkbox{opacity: 0;
 position: absolute;
-top: 8px;
+top: 6px;
 left: 15px;}
 
 .label{background-color: #000000;
