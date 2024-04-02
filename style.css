@@ -149,3 +149,32 @@ left: 160px;}
 img#lupa{position: absolute;
 top: 265px;
 left: 800px;}
+
+div#darkmode{margin: 0;
+padding: 0;
+border: 0;
+box-sizing: border-box;
+    
+background-color: #ffffff;
+display: flex;
+align-items: center;
+justify-content: center;
+
+height: 10vh;
+margin: 0;
+transition: background 0.2s linear;}
+
+.dark{background-color: #424242;}
+
+.checkbox{opacity: 0;
+position: absolute;}
+
+.label{background-color: #424242;
+border-radius: 50px;
+cursor: pointer;
+
+display: flex;
+align-items: center;
+justify-content: space-between;}
+
+.label .ball{background-color: #fff;}
