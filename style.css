@@ -174,15 +174,10 @@ padding: 0;
 border: 0;
 box-sizing: border-box;
     
-background-color: #ffffff;
+background-color: none;
 display: flex;
 align-items: center;
-justify-content: center;
-
-height: 3vh;
-margin: 0;
-transition: background 0.2s linear;
-}
+justify-content: center;}
 
 .dark{background-color: #000000;
 background-image: url(design/layout/StreetKinglog\ \(3\).png);
@@ -192,8 +187,8 @@ background-attachment:fixed;}
 
 .checkbox{opacity: 0;
 position: absolute;
-top: 6px;
-left: 15px;}
+top: 3px;
+left: 12px;}
 
 .label{background-color: #000000;
 border-radius: 50px;
@@ -213,3 +208,10 @@ height: 22px;
 width: 22px;}
 
 p#imghg{text-align: center;}
+
+div#darkmode:hover{background-color: none;
+display: flex;
+align-items: center;
+justify-content: center;}
+
+i:hover{opacity: 0;}
