@@ -59,7 +59,7 @@ a{color: #0093D1;}
 
 a:hover{color: black;}
 
-html{background: #ffffff;
+html{background-color: #ffffff;
 color: #0093D1;}
 
 p#tc{text-align: center;
@@ -97,11 +97,11 @@ li#tc{border: double 1px #0093D1;
 margin-left: 500px;
 margin-right: 500px;}
 
-li#insta{position: fixed;
+li#insta{position: static;
 bottom: 0px;
 left: 14px;}
 
-li#face{position: fixed;
+li#face{position: static;
 bottom: 0px;
 left: 64px}
 
@@ -123,7 +123,7 @@ top: 25px;}
 h2{text-align: center;
 font-family: 'Times New Roman', Times, serif;}
 
-li#zap{position: fixed;
+li#zap{position: static;
 bottom: 0px;
 left: 114px;}
 
@@ -158,7 +158,7 @@ background-repeat: no-repeat;
 background-position: center;
 background-attachment:fixed;}
 
-li#github{position: fixed;
+li#github{position:static;
 bottom: 0px;
 left: 164px;}
 
@@ -215,3 +215,17 @@ align-items: center;
 justify-content: center;}
 
 i:hover{opacity: 0;}
+
+div#cadastro{text-align: center;}
+
+@media (max-width: 480px){}
+
+@media (min-width: 481px) and (max-width: 767px){ }
+
+@media (min-width: 768px) and (max-width: 991px){}
+
+@media (min-width: 992px) and (max-width: 1199px){}
+
+@media (min-width: 1200px) and (max-width: 1919px){}
+
+@media (min-width: 1920px){}
