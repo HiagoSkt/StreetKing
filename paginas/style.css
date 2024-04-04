@@ -150,7 +150,7 @@ position: fixed;
 top: 8px;
 right: 60px;}
 
-html{background-image: url(design/layout/StreetKinglog\ \(3\).png);
+html{background-image: url(/design/layout/StreetKinglog\ \(3\).png);
 background-repeat: no-repeat;
 background-position: center;
 background-attachment:fixed;}
@@ -215,6 +215,9 @@ i:hover{opacity: 0;}
 
 div#cadastro{text-align: center;}
 
+li#sobre{text-align: center;
+font-size: 25px;}
+
 @media (max-width: 480px){
     p{text-align: center;
     font-size: 15px;}
@@ -223,7 +226,8 @@ div#cadastro{text-align: center;}
     top: 50px;
     left: 0px;}
     
-    header{font-size: 23px;}
+    header{font-size: 23px;
+    text-align: right;}
     
     h1{text-align: right;}
         
