@@ -182,10 +182,10 @@ background-repeat: no-repeat;
 background-position: center;
 background-attachment:fixed;}
 
-.checkbox{opacity: 0;
+.checkbox{opacity: 1;
 position: absolute;
 top: 3px;
-left: 12px;}
+left: 45px;}
 
 .label{background-color: #000000;
 border-radius: 50px;
