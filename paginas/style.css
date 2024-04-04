@@ -177,7 +177,7 @@ align-items: center;
 justify-content: center;}
 
 .dark{background-color: #000000;
-background-image: url(design/layout/StreetKinglog\ \(3\).png);
+background-image: url(/design/layout/StreetKinglog\ \(3\).png);
 background-repeat: no-repeat;
 background-position: center;
 background-attachment:fixed;}
