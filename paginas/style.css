@@ -60,7 +60,7 @@ a{color: #0093D1;}
 
 a:hover{color: black;}
 
-html{background-color: #ffffff;
+html{background-color: #000000;
 color: #0093D1;}
 
 p#tc{text-align: center;
@@ -176,7 +176,7 @@ display: flex;
 align-items: center;
 justify-content: center;}
 
-.dark{background-color: #000000;
+.dark{background-color: #ffffff;
 background-image: url(/design/layout/StreetKinglog\ \(3\).png);
 background-repeat: no-repeat;
 background-position: center;
